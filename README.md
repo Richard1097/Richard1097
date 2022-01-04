@@ -2,7 +2,7 @@
 
 - 🌱 Estudando atualmente HTML,CSS ,JavaScript, FireBase, Mongo DB,Node.Js e React Js.
 - 📫 Contate-me no e-mail:richard_nacimento@hotmail.com
--     Acesse as paginas dos meus projetos para ver um pouco do meu desenvolvimento.
+- Acesse as paginas dos meus projetos para ver um pouco do meu desenvolvimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
